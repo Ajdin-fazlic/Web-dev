@@ -1,2 +1,2 @@
 # Web-dev
-Projects for web development course
+Project1 for web development course
