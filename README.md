@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <!--Name: Ajdin Fazlić
     ID: 180302025
     Project 1-->
